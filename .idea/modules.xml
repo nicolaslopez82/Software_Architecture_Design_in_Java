@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/BuilderPattern/BuilderPattern.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/BuilderPattern/BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/CommandPattern/CommandPattern1.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/CommandPattern/CommandPattern1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/CommandPatternII/CommandPatternII1.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/CommandPatternII/CommandPatternII1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/D/D1.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/D/D1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/DAO/DAO1.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/DAO/DAO1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/DecoratorPattern/DecoratorPattern1.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/DecoratorPattern/DecoratorPattern1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/FacadePattern/FacadePattern.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/FacadePattern/FacadePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/FactoryPattern/FactoryPattern1.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/FactoryPattern/FactoryPattern1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/I/I.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/I/I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/JavaSolidMVC/JavaSolidMVC.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/JavaSolidMVC/JavaSolidMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/L/L.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/L/L.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/NullObjectPattern/NullObjectPattern1.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/NullObjectPattern/NullObjectPattern1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/O/O.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/O/O.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/ObserverPattern/ObserverPattern1.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/ObserverPattern/ObserverPattern1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/S/S.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/S/S.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/ServiceLocatorPattern/ServiceLocatorPattern.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/ServiceLocatorPattern/ServiceLocatorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/SingletonPattern/SingletonPattern1.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/SingletonPattern/SingletonPattern1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/Software_Architecture_Design_in_Java1.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/Software_Architecture_Design_in_Java1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/StatePattern/StatePattern.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/StatePattern/StatePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/StrategyPattern/StrategyPattern.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/StrategyPattern/StrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Architecture_Design_in_Java/TemplatePattern/TemplatePattern.iml" filepath="$PROJECT_DIR$/Software_Architecture_Design_in_Java/TemplatePattern/TemplatePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDAO/src/main/main.iml" filepath="$PROJECT_DIR$/MyDAO/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDAO/src/test/test.iml" filepath="$PROJECT_DIR$/MyDAO/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
