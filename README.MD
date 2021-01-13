@@ -44,4 +44,6 @@
 ### Licence
 Free Software.
 
-![Alt text](/Software_Architecture_Design_in_Java/master/design-pattern-relationships.png?raw=true "Design Pattern Relationships")
+![Alt text](https://github.com/nicolaslopez82/Software_Architecture_Design_in_Java/blob/master/design-pattern-cheat-sheet.jpg?raw=true "Design Pattern Cheat Sheet")
+
+![Alt text](https://github.com/nicolaslopez82/Software_Architecture_Design_in_Java/blob/master/design-pattern-relationships.png?raw=true "Design Pattern Relationships")
